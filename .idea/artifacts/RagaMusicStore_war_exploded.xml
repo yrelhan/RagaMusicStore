@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RagaMusicStore:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RagaMusicStore_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="RagaMusicStore/web/Web2" />
+      <element id="javaee-facet-resources" facet="RagaMusicStore/web/Web" />
+    </root>
+  </artifact>
+</component>
